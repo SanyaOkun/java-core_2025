@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<animals>
+            
+    
+    <animal>
+                        
+        
+        <name>Барсик</name>
+                        
+        
+        <type>Кот</type>
+                        
+        
+        <age>3</age>
+                    
+    
+    </animal>
+            
+    
+    <animal>
+                        
+        
+        <name>Шарик</name>
+                        
+        
+        <type>Собака</type>
+                        
+        
+        <age>5</age>
+                    
+    
+    </animal>
+        
+
+</animals>
